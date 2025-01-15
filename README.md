@@ -1,4 +1,4 @@
-# Objectra: A Simple Object-Oriented Language Interpreter
+# Objektra: A Simple Object-Oriented Language Interpreter
 
 **Overview**
 
